@@ -62,3 +62,9 @@ typings/
 
 # VS Code settings
 .vscode
+
+# App configuration files
+config.js
+
+# App distributables
+dist

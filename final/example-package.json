@@ -3,6 +3,13 @@
   "version": "0.1.0",
   "description": "An Electron client example for the JavaScript Everywhere book",
   "main": "final/index.js",
+  "build": {
+    "appId": "io.jseverywhere.notedly",
+    "productName": "Notedly",
+    "directories": {
+      "buildResources": "resources"
+    }
+  },
   "scripts": {
     "start": "electron src/index.js",
     "final": "electron final/index.js",
