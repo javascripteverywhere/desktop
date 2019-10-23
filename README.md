@@ -31,8 +31,8 @@ npm run final
 ## Related Repositories
 
 - [API 🗄️ ](https://github.com/javascripteverywhere/api)
+- [Web 💻 ](https://github.com/javascripteverywhere/web)
 - [Mobile 🤳](https://github.com/javascripteverywhere/mobile)
-- [Desktop 🖥️](https://github.com/javascripteverywhere/desktop)
 
 ## Code of Conduct
 
