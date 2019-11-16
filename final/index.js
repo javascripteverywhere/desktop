@@ -17,7 +17,7 @@ function createWindow() {
 
   // load the URL
   if (is.development) {
-    window.loadURL(config.PRODUCTION_WEB_URL);
+    window.loadURL(config.LOCAL_WEB_URL);
   } else {
     window.loadURL(config.PRODUCTION_WEB_URL);
   }
